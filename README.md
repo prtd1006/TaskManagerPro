@@ -41,7 +41,7 @@ task-manager-pro/
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone git@github.com:prtd1006/TaskManagerPro.git
    ```
 
 2. Open the project directory:
